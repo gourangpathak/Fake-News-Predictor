@@ -5,8 +5,11 @@ I have got my dataset for this project from the Kaggle API (Dataset File Link) :
 
 Google Colab File Link : https://colab.research.google.com/drive/1kC7CrE3lEYhp2cquhKAApNtWvKWkZCgb?usp=sharing
 
-## Predictive Model Demo
+## Demo of the Predictive Model
 
 
-https://user-images.githubusercontent.com/89131980/190407795-d8007d3d-1ec4-47d3-86bc-7a2e65bc81ac.mp4
+
+
+
+https://user-images.githubusercontent.com/89131980/190408373-3a1fb0b6-86e7-45cc-b7ee-69639e1c90cc.mp4
 
